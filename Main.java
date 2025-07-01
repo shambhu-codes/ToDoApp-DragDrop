@@ -1,4 +1,4 @@
-package com.mycompany.todolist;
+package com.mycompany.todolist;  //if we run this file through cmd then this package line no need
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
