@@ -14,11 +14,12 @@ This is a simple **To-Do List desktop application** developed using **Java Swing
 - Swing (`javax.swing`)
 - NetBeans IDE (with GUI Designer)
 
-## 🧾 How to Run
-1. Open the project in **NetBeans IDE**.
+## How to Run
+1. Open the project in **NetBeans IDE**. 
 2. Open the `Main.java` form file in **Design view** to see the GUI.
 3. Click the green **Run** button or run the `Main` class.
 4. Use the input field and buttons to add or remove tasks.
+5. We can run this file by using command prompt but remove the package name at the time of save the  file
 ##  Folder Structure
 ToDoList/ <br>
 ├── nbproject/ <br>
